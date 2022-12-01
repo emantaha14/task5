@@ -1,3 +1,5 @@
+import task5.AreaClass;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
