@@ -1,3 +1,5 @@
+package task5;
+
 import task5.AreaClass;
 
 import java.util.ArrayList;
